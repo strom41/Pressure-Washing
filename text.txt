@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Carter's Pressure Washing</title>
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f7fa;
+  color: #333;
+}
+
+header {
+  background: #0d6efd;
+  color: white;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 40px;
+}
+
+header p {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 12px 25px;
+  background: white;
+  color: #0d6efd;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+section {
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.services {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.service-box {
+  background: white;
+  padding: 20px;
+  width: 250px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+footer {
+  background: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Carter's Pressure Washing</h1>
+  <p>Professional • Affordable • Local</p>
+  <a href="tel:1234567890" class="btn">Call Now</a>
+</header>
+
+<section>
+  <h2>Our Services</h2>
+  <div class="services">
+    <div class="service-box">
+      <h3>Driveways</h3>
+      <p>Remove dirt, oil stains, and grime to restore your driveway.</p>
+    </div>
+    <div class="service-box">
+      <h3>Patios & Decks</h3>
+      <p>Make your outdoor space look brand new again.</p>
+    </div>
+    <div class="service-box">
+      <h3>Sidewalks</h3>
+      <p>Clean and brighten walkways for better curb appeal.</p>
+    </div>
+  </div>
+</section>
+
+<section style="background:#e9f2ff;">
+  <h2>Why Choose Us?</h2>
+  <p>✔ Affordable pricing</p>
+  <p>✔ Fast and reliable service</p>
+  <p>✔ Satisfaction guaranteed</p>
+</section>
+
+<section>
+  <h2>Get a Free Quote</h2>
+  <p>Call or text us today!</p>
+  <h3>📞 (123) 456-7890</h3>
+</section>
+
+<footer>
+  <p>© 2026 Carter's Pressure Washing | Serving Your Local Area</p>
+</footer>
+
+</body>
+</html>
